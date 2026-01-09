@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1767957568825,
+      "tag": "20260109111928_charming_iron_man",
+      "breakpoints": true
+    }
+  ]
+}
